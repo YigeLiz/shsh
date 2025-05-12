@@ -1,7 +1,8 @@
 #!/bin/bash
 
+#dingding
 
-DING_URL="https://oapi.dingtalk.com/robot/send?access_token=2063813c1de1fcfa4bdad9ffc4f0f45ed1b46aab6e57232cfba02d24caeae510"
+DING_URL="https://oapi.dingtalk.com/*************************************"
 
 # 检查CPU负载（1分钟平均值）
 CPU_LOAD=$(uptime | awk -F 'load average:' '{print $2}' | cut -d',' -f1 | tr -d ' ')
