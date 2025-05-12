@@ -2,8 +2,8 @@
 
 # web.mysql.backup.sh
 
-DB_NAME="www_yigeweb_site"
-BACKUP_DIR="/www/backup/database/mysql/www_yigeweb_site"
+DB_NAME="***"
+BACKUP_DIR="/www/backup/database/mysql/***"
 DATE=$(date +"%Y-%m-%d_%H%M%S")
 
 # 创建备份目录
