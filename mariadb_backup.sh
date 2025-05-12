@@ -3,7 +3,7 @@
 #mariadb_backup_shell
 
 BACKUP_DIR="/home/ego/myshell/backups/mariadb_backup"
-DB_NAME="egow"
+DB_NAME="***"
 
 #mkdir -p "$BACKUP_DIR"
 
